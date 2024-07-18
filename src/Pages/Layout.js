@@ -35,6 +35,11 @@ const Layout = () => {
                     <strong>District</strong>
                   </NavLink>
                 </li>
+                <li className="nav-item p-2 mx-3">
+                  <NavLink className="nav-link " to="/">
+                    <strong>Login</strong>
+                  </NavLink>
+                </li>
               </ul>
             </div>
           </div>
